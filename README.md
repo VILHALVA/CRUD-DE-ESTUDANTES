@@ -38,14 +38,13 @@ Este aplicativo oferece uma interface da web simples e intuitiva para adicionar,
    Certifique-se de fornecer as credenciais corretas para que o aplicativo possa se conectar ao banco de dados MySQL corretamente.
 
 3. **Instalando as dependências:**
-   - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt`:
+   - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` no diretório: `CODIGO`:
    ```bash
    pip install -r requirements.txt
    ```
    - Isso instruirá o pip a ler o arquivo requirements.txt e instalar todas as dependências listadas.
 
 4. **Executando o Aplicativo:**
-   - Após instalar as dependências, para iniciar o servidor, navegue até o diretório `CODIGO` no terminal.
    - Em seguida, execute o seguinte comando para iniciar o servidor Flask:
    ```bash
    python app.py
